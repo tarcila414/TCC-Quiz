@@ -1,0 +1,10 @@
+1. Eu acho de gostaria de usar este sistema com frequência.
+2. Eu acho o sistema desnecessariamente complexo.
+3. Eu achei o sistema fácil de usar.
+4. Eu acho que precisaria do apoio de um técnico para poder usar este sistema.
+5. Eu acho que as funções deste sistema estão bem integradas.
+6. Eu acho que o sistema apresenta muita inconsistência.
+7. Eu imagino que as pessoas aprenderão como usar esse sistema rapidamente.
+8. Eu achei o sistema atrapalhado de usar.
+9. Eu me senti muito confiante com o sistema.
+10. Eu preciso aprender um monte de coisas antes de continuar usando este sistema.
