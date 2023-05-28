@@ -1,0 +1,10 @@
+1. Realize login na plataforma.
+2. Pesquise a média dos colaboradores na métrica ‘Resiliência’ do período do dia 01/03/2023 a 31/05/2023. 
+3. Agende uma reunião com o colaborador com a menor nota na pesquisa realizada.
+4. Crie uma estratégia para este mesmo colaborador. 
+5. Pesquise o desempenho geral da equipe do dia 01/03/2023 a 31/05/2023.
+6. Crie um feedback.
+7. Pesquise as metas do ‘Ranking de Maio’.
+8. Crie uma nova meta para o ‘Ranking de Maio’.
+9. Filtre suas reuniões agendadas para o dia 19/05/2023.   
+10. Adicione um novo colaborador à sua equipe.
